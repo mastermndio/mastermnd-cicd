@@ -12,7 +12,7 @@ test('anchorMarkdownHeadings', (t) => {
     const level = 1
     const raw = 'Simple title'
     const output = anchorMarkdownHeadings(text, level, raw)
-    const expected = '<h1 id="header-simple-title">Simple title' +
+    const expected = '<h1 id="notheader-simple-title">Simple title' +
       '<a id="simple-title" class="anchor" href="#simple-title" ' +
       'aria-labelledby="header-simple-title"></a></h1>'
 
