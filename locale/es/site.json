@@ -1,0 +1,151 @@
+{
+  "title": "Node.js",
+  "editOnGithub":"Editar en Github",
+  "author": "Node.js",
+  "url": "https://nodejs.org/es/",
+  "locale": "es",
+  "language": "Español",
+  "languageEnglishVersion": "Spanish",
+  "scrollToTop": "Vuelve al comienzo",
+  "reportNodeIssue": "Informe de un problema con Node.js",
+  "reportWebsiteIssue": "Informe de un problema con el sitio",
+  "getHelpIssue": "Consiga Ayuda",
+  "by": "por",
+  "all-downloads": "Todas las opciones de descarga",
+  "nightly": "Versiones Nightly",
+  "chakracore-nightly": "Versiones Node-ChakraCore Nightly",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "feeds": [
+    {
+      "link": "feed/blog.xml",
+      "text": "Node.js Blog"
+    },
+    {
+      "link": "feed/releases.xml",
+      "text": "Node.js Blog: Versiones"
+    },
+    {
+      "link": "feed/vulnerability.xml",
+      "text": "Node.js Blog: Informes de Vulnerabilidad"
+    }
+  ],
+  "home": {
+    "text": "Inicio"
+  },
+  "about": {
+    "link": "about",
+    "text": "Acerca",
+    "governance": {
+      "link": "about/governance",
+      "text": "Gobierno"
+    },
+    "community": {
+      "link": "about/community",
+      "text": "Comunidad"
+    },
+    "workinggroups": {
+      "link": "about/working-groups",
+      "text": "Grupos de Trabajo"
+    },
+    "releases": {
+      "link": "about/releases",
+      "text": "Versiones"
+    },
+    "resources": {
+      "link": "about/resources",
+      "text": "Recursos"
+    },
+    "trademark": {
+      "link": "about/trademark",
+      "text": "Marca"
+    },
+    "privacy": {
+      "link": "about/privacy",
+      "text": "Política de privacidad"
+    }
+  },
+  "download": {
+    "link": "download",
+    "text": "Descargas",
+    "releases": {
+      "link": "download/releases",
+      "text": "Versiones anteriores"
+    },
+    "package-manager": {
+      "link": "download/package-manager",
+      "text": "Instale Node.js mediante un gestor de paquetes"
+    },
+    "shasums": {
+      "link": "SHASUMS256.txt.asc",
+      "text": "Firmas SHASUMS de los archivos de versiones",
+      "verify-link": "https://github.com/nodejs/node#verifying-binaries",
+      "verify-text": "Cómo verificarlo"
+    },
+    "install-on-linux": {
+      "text": "Installing Node.js via binary archive"
+    }
+  },
+  "docs": {
+    "link": "docs",
+    "text": "Documentación",
+    "es6": {
+      "link": "docs/es6",
+      "text": "ES6 y más allá"
+    },
+    "api-lts": {
+      "link": "https://nodejs.org/dist/latest-%ver-major%/docs/api/",
+      "subtext": "LTS",
+      "text": "%ver% API"
+    },
+    "api-current": {
+      "link": "https://nodejs.org/dist/latest-%ver-major%/docs/api/",
+      "text": "%ver% API"
+    },
+    "guides": {
+      "link": "docs/guides",
+      "text": "Guías"
+    },
+    "dependencies": {
+      "link": "docs/meta/topics/dependencies",
+      "text": "Dependencias"
+    }
+  },
+  "getinvolved": {
+    "link": "get-involved",
+    "text": "Participa",
+    "code-and-learn": {
+      "link": "get-involved/code-and-learn",
+      "text": "Programa + Aprende"
+    },
+    "collab-summit": {
+      "link": "get-involved/collab-summit",
+      "text": "Colabora en el Summit"
+    },
+    "contribute": {
+      "link": "get-involved/contribute",
+      "text": "Contribuye"
+    },
+    "conduct": {
+      "link": "https://github.com/nodejs/node/blob/master/doc/guides/contributing/coc.md#code-of-conduct",
+      "text": "Código de Conducta"
+    }
+  },
+  "security": {
+    "link": "security",
+    "text": "Seguridad"
+  },
+  "blog": {
+    "link": "blog",
+    "text": "Noticias"
+  },
+  "releases": {
+    "title": "Histórico de versiones",
+    "downloads": "Descargas"
+  },
+  "links": {
+    "pages": {
+      "changelog": "Registro de Cambios"
+    }
+  }
+}
