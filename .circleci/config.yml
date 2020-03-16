@@ -11,6 +11,7 @@ jobs:
           steps:
             - run: npm install
             - run: npm test
+            - run: echo "This is a NEW STEP"
 workflows:
     build-and-test:
       jobs:
